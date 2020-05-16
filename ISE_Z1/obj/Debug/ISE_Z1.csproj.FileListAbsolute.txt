@@ -18,3 +18,15 @@ D:\ai\ZadProgAlgorytmyEwolucyjne\ISE_Z1\obj\Debug\ISE_Z1.csproj.CoreCompileInput
 D:\ai\ZadProgAlgorytmyEwolucyjne\ISE_Z1\obj\Debug\ISE_Z1.csproj.CopyComplete
 D:\ai\ZadProgAlgorytmyEwolucyjne\ISE_Z1\obj\Debug\ISE_Z1.exe
 D:\ai\ZadProgAlgorytmyEwolucyjne\ISE_Z1\obj\Debug\ISE_Z1.pdb
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.csprojAssemblyReference.cache
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.Form1.resources
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.Properties.Resources.resources
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.csproj.GenerateResource.cache
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.csproj.CoreCompileInputs.cache
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.exe
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.pdb
+C:\Projects\generacyjne\ISE_Z1\bin\Debug\ISE_Z1.exe.config
+C:\Projects\generacyjne\ISE_Z1\bin\Debug\ISE_Z1.exe
+C:\Projects\generacyjne\ISE_Z1\bin\Debug\ISE_Z1.pdb
+C:\Projects\generacyjne\ISE_Z1\bin\Debug\ZedGraph.dll
+C:\Projects\generacyjne\ISE_Z1\obj\Debug\ISE_Z1.csproj.CopyComplete
